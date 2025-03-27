@@ -1,4 +1,4 @@
-# 🚀 Aprendendo a Programar em Java
+# 🚀 Aprendendo a Programar com Java
 
 Este repositório faz parte de uma jornada de aprendizado de programação com o plano **APRENDER A PROGRAMAR COM JAVA**.
 Aqui registro **projetos voltado ao desenv. backend,** com foco em lógica, Java, tecnologias back-end, certificações e construção de um portfólio profissional (desde o básico ao avançado).
